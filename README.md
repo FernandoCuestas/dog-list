@@ -8,7 +8,7 @@
 
 > dog list react
 
-### ✨ [Demo](https://fernando-cuestas-dog-list.netlify.com/dogs)
+### ✨ [Demo](https://fernando-cuestas-dog-list.netlify.com/)
 
 ## Install
 
@@ -39,5 +39,4 @@ npm run test
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
